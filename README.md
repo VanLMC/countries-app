@@ -3,9 +3,12 @@
 
 Welcome to **Countries App**, a React Native application that allows you to explore and get information about different countries. This app utilizes various technologies to provide a seamless and enjoyable user experience.
 
-<p align="center">
-https://github.com/VanLMC/countries-app/assets/39391737/152165b0-5d90-4da8-89df-d91add5f6d22
-</p>
+
+
+
+
+https://github.com/VanLMC/countries-app/assets/39391737/952f4cbc-6afd-4bea-a4fd-f97e29c2a9d3
+
 
 ## Features
 
@@ -44,8 +47,6 @@ https://github.com/VanLMC/countries-app/assets/39391737/152165b0-5d90-4da8-89df-
 
     ```bash
     npx react-native run-android   # For Android
-    # or
-    npx react-native run-ios       # For iOS
     ```
 
 
